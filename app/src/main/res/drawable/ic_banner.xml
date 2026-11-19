@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Powered by NyphexAI, Developed by Hikaru(i@rua.moe) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="#0B1220"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="#132238"
+        android:pathData="M0,128L320,88L320,180L0,180Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M160,34L126,49V74C126,96 140.5,116.5 160,122C179.5,116.5 194,96 194,74V49L160,34Z" />
+    <path
+        android:fillColor="#0B1220"
+        android:pathData="M160,57A16,16 0 1,0 160,89A16,16 0 1,0 160,57Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M160,65A8,8 0 1,0 160,81A8,8 0 1,0 160,65Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M104,136h112v6h-112z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M126,148h68v4h-68z" />
+</vector>

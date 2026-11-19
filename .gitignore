@@ -1,0 +1,7 @@
+build/
+keystore/
+.token
+diagnostics/
+*.apk
+*.idsig
+.DS_Store
